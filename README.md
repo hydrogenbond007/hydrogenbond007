@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Madhav goyal
-- npc
-- here is my blog - mirror.xyz/madhavg.eth
+- im npc
+- [blog](mirror.xyz/madhavg.eth)
